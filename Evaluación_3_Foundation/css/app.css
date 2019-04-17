@@ -1,6 +1,6 @@
 body{
   background-image: url("../img/fondo.jpg");
-background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size:cover;
 
@@ -65,4 +65,12 @@ h3
   #comentarios
   {font-size: 25px;
     text-align: center;
+  }
+
+  @media all and (max-width: 900px){
+
+body{
+  margin-left: -250px;
+}
+
   }
