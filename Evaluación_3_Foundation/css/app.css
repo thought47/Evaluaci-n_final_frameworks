@@ -1,0 +1,68 @@
+body{
+  background-image: url("../img/fondo.jpg");
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+
+}
+
+div{
+  border: 1px solid white;
+
+}
+
+h1{
+  font-size: 20px;
+  color: white;
+}
+p{
+  text-align: right;
+  color: white;
+
+}
+
+.row{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+ul{
+  border: 1px solid black;
+}
+a{
+  text-align: center;
+  color: black;
+}
+
+#favoritos{
+  text-align: left;
+}
+
+.menu li,a,ul
+{
+  color: red;
+  text-shadow: 1px 1px 1px black;
+}
+
+#titulo{
+  text-align: center;
+  font-size: 40px;
+}
+
+h3
+{
+  color: yellow;
+}
+#parrafo
+{
+  text-align: justify;
+}
+#imagenpasta{
+  box-shadow: 2px 2px 2px 2px;
+
+}
+#comentario {text-align:left;}
+
+  #comentarios
+  {font-size: 25px;
+    text-align: center;
+  }

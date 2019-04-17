@@ -1,0 +1,68 @@
+body{
+  background-image: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+.img{width: 30%;
+
+}
+
+a{
+  margin-left: 10%;
+}
+
+.opcion{
+
+  color:white!important;
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+
+
+}
+
+.Slogan{
+  font-size: 15px;
+  padding-top: 20px; /* Aqui baje el padding-top*/
+  margin-left: 20%;
+
+}
+.imagenes{
+  display: flex;
+  flex-flow: column;
+  width: 35%;
+  border: 2px solid black;}
+
+  .titulo{
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px 2px black !important;
+
+  }
+.parrafo{
+text-align: justify;
+color: white !important;
+text-shadow: 2px 2px 2px black !important;
+
+}
+
+.fecha{
+  color: white!important;
+    text-shadow: 2px 2px 2px black !important;
+}
+.icono{
+  width: 50%;
+  padding-left: 10%;
+}
+.circle{
+  width: 50%;
+  border-radius: 100px;
+  margin-left: 20%;
+    box-shadow: 2px 2px 2px black !important;
+}
+.responsive-img{
+  box-shadow: 2px 2px 2px black !important;
+}

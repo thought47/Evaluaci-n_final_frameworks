@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgba(5, 0, 0, 0.9);
+
+}
+.image-circle
+{
+
+  width: 15%;
+  margin-left: 5%;
+}
+.redes-sociales img{
+  height: 30px;
+  width: 30px;
+}
+.redes-sociales {
+  display:block;
+  margin-top: 15%;
+  margin-left: 30%;
+}
+.navbar
+{display: flex;
+  width: 100%;
+}
+
+.img-rounded{
+  width: 30px;
+margin-top: 15%;}
+
+.row{
+  text-align: justify;
+}
+
+.img
+{width: 100%;
+box-shadow:2px 2px 2px 2px;}
+
+.lead
+{  color: white;}
+
+.icono {
+  width: 50%;
+  margin-left: 10px;
+}
